@@ -1,0 +1,10 @@
+Nov 20 14:09:35 174.66.138.197 u81631562 Connection from 174.66.138.197 port 50738
+Nov 20 14:09:38 174.66.138.197 u81631562 Accepted password for u81631562 from 174.66.138.197 port 50738 ssh2
+Nov 20 19:09:38 174.66.138.197 u81631562 SFTP session started in /kunden/homepages/31/d584682381/htdocs
+Nov 20 19:09:38 174.66.138.197 u81631562 Client version 6
+Nov 20 14:14:54 10.72.10.200 tmp81631562-9621 Connection from 10.72.10.200 port 59473
+Nov 20 14:14:55 10.72.10.200 tmp81631562-9621 Accepted password for tmp81631562-9621 from 10.72.10.200 port 59473 ssh2
+Nov 20 19:14:55 10.72.10.200 u81631562 SFTP session started in /kunden/homepages/31/d584682381/htdocs
+Nov 20 19:14:55 10.72.10.200 u81631562 Client version 3
+Nov 20 14:16:00 10.72.10.200 tmp81631562-2277 Connection from 10.72.10.200 port 59841
+Nov 20 14:16:01 10.72.10.200 tmp81631562-2277 Accepted password for tmp81631562-2277 from 10.72.10.200 port 59841 ssh2
