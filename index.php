@@ -1,5 +1,5 @@
-/* Hee Han heehan0703@gmail.com */
 <?php
+/* Hee Han heehan0703@gmail.com */
 session_start();
 
 require_once('include/connectdb.php');
